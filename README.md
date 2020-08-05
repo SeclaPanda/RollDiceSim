@@ -1,2 +1,1 @@
-# Git_Hub
- Git
+An app written on Python to Roll Dice 
